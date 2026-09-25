@@ -1,0 +1,16 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex07\" ; if ($?) { javac ThreadProgram.java } ; if ($?) { java ThreadProgram }
+
+Main Thread and Generated Number is 96
+New Thread 96 is EVEN and Square of 96 is: 9216
+                                                  
+Main Thread and Generated Number is 70
+New Thread 70 is EVEN and Square of 70 is: 4900
+                                                  
+Main Thread and Generated Number is 22
+New Thread 22 is EVEN and Square of 22 is: 484
+                                                  
+Main Thread and Generated Number is 26
+New Thread 26 is EVEN and Square of 26 is: 676
+                                                  
+Main Thread and Generated Number is 98
+New Thread 98 is EVEN and Square of 98 is: 9604

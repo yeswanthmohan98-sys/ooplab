@@ -1,0 +1,18 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex02\" ; if ($?) { javac Convertor.java } ; if ($?) { java Convertor }
+
+Enter the code
+1: Currency
+2: Distance
+3: Time
+1
+Enter the Currency code
+1: Euro
+2: Dollar
+3: Yen
+2
+Enter amount in Rupees
+6600
+Dollar : 100
+Enter amount in Dollar
+6
+Rupees : 396

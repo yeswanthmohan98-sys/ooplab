@@ -1,0 +1,12 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex08\" ; if ($?) { javac InterThreadCommunication.java } ; if ($?) { java InterThreadCommunication }
+
+Produced: 1
+Consumed: 1
+Produced: 2
+Consumed: 2
+Produced: 3
+Consumed: 3
+Produced: 4
+Consumed: 4
+Produced: 5
+Consumed: 5

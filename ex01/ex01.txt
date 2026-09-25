@@ -1,0 +1,35 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex01\" ; if ($?) { javac ElectBill.java } ; if ($?) { java ElectBill }
+         
+         Enter Consumer number = 102
+
+         Enter Consumer name = Gokul
+
+         Enter the type of connection = domestic
+
+         Enter pre_month reading = 150
+
+         Enter current_month reading = 800
+
+         Customer name = Gokul
+
+         Total units = 650.0
+
+         Total bill = Rs 3900.0
+         
+PS C:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex01> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex01\" ; if ($?) { javac ElectBill.java } ; if ($?) { java ElectBill }
+
+         Enter Consumer number = 103
+
+         Enter Consumer name = Bharathi
+
+         Enter the type of connection = commercial
+
+         Enter pre_month reading = 1005
+
+         Enter current_month reading = 1300
+
+         Customer name = Bharathi
+
+         Total units = 295.0
+
+         Total bill = Rs 1770.0

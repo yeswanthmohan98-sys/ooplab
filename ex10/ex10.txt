@@ -1,0 +1,16 @@
+PS C:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex10\FileDemo.java  
+
+FileDemo.java 
+File Name:FileDemo.java  
+Path: FileDemo.java 
+Abs Path: C:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex10\FileDemo.java  
+Parent: Null 
+This file is:Exists  
+Is file:true 
+Is Directory:false  
+Is Readable:true  
+Is Writable:true  
+Is Absolute:false
+File Last Modified: 1725897600000
+File Size: 512 bytes 
+Is Hidden: false

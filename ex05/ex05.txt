@@ -1,0 +1,27 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex05\" ; if ($?) { javac StackADT.java } ; if ($?) { java StackADT }
+
+Implementation of Stack using Array
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+10
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+15
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+25
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+3
+Elements are:  10 <-- 15 <-- 25 <--
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+2
+Popped element:25
+1.Push 2.Pop 3.Display 4.Exit

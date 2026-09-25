@@ -1,0 +1,21 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex09\" ; if ($?) { javac ArrayListExample.java } ; if ($?) { java ArrayListExample }
+
+Currently the array list obj1 has following elements:[Rajini, Ajith, Vijay, Surya, Karthi]
+
+ArrayList obj1 after add All:[Rajini, Ajith, Vijay, Surya, Karthi, Dhanush, Soori, Vishal, Pradeep, Kavin]
+
+ArrayList obj1 after add element at the given index:[Kamal, Siva, Rajini, Ajith, Vijay, Surya, Karthi, Dhanush, Soori, Vishal, Pradeep, Kavin]
+
+Enter the Search element:
+Vijay
+
+ArrayList obj1 contains the string Vijay:true
+
+Current array list of obj1 after removing element is:[Kamal, Siva, Rajini, Surya, Karthi, Dhanush, Soori, Vishal, Pradeep, Kavin]
+
+Current array list of obj1 after removing element through index is:[Kamal, Rajini, Surya, Karthi, Dhanush, Soori, Vishal, Pradeep, Kavin]
+
+Enter the letter to display all the string start with given letter:
+V
+
+ArrayList obj1 contains all the string start with givenV:[Vishal]
