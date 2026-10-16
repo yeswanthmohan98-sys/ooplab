@@ -1,0 +1,106 @@
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: 
+---------- Dictionary Entries (2) ----------
+ 1. java            : A high-level, object-oriented programming language.
+ 2. map             : A collection that stores key-value pairs.
+----------------------------------------------
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Enter word to search: Word    : java
+Meaning : A high-level, object-oriented programming language.
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Enter word: Enter meaning: Word added successfully.
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Enter word: Enter meaning: Error: Word already exists: "java". Use update instead.
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Enter word to search: Error: Word not found: "xyz"
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Enter word to update: Enter new meaning: Word updated successfully.
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Enter word to update: Enter new meaning: Error: Word not found: "zzz"
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Enter word: Enter meaning: Error: Word cannot be empty.
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Error: please enter a number.
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Enter word to search: Word    : python
+Meaning : A popular high-level programming language.
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: 
+---------- Dictionary Entries (3) ----------
+ 1. java            : A high-level, object-oriented programming language.
+ 2. map             : A data structure that stores key-value pairs with unique keys.
+ 3. python          : A popular high-level programming language.
+----------------------------------------------
+
+===== Dictionary Management System =====
+1. Add word
+2. Search word
+3. Update word
+4. Display all entries
+5. Exit
+Enter choice: Goodbye!
